@@ -1,6 +1,6 @@
 'use strict';
 
-function randomizeArray() {
+function randomizeArray(arr) {
   var st = new Date().getTime();
   var result = [];
 
